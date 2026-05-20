@@ -1,5 +1,5 @@
 [project]
-name = "rate-limit-guard"
+name = "kindred-rate-limit-guard"
 version = "1.0.0"
 description = "Cross-session and cross-process API rate limit guard for AI agents"
 readme = "README.md"
